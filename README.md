@@ -12,7 +12,7 @@ Peralatan Pendukung : Mouse
 
 # 1.3)Menginstallasi Software Kebutuhan :
 
-Software Kebutuhan :
+Software Kebutuhan : <br>
 **[Git-Bash]** : Sebagai Terminal dan remote untuk VCS (Version Control System) pada Github <br>
 **[Github]** : Sebagai VCS (Version Control System) <br>
 **[Composer]** : Sebagai Software yang mengelola dan menginstal package yang dibutuhkan oleh aplikasi PHP <br>
